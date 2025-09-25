@@ -6,6 +6,7 @@
  *
  * Modification History:
  * Date         Version     Modified By     Description
+ 2021-12-21   2.0.1      g4b3r.x
  * 2021-12-21   2.0.0       Roberto D'Amico New version of the project that integrates the callback functions, while 
  *                                          maintaining compatibility with previous versions. Fixed Issue #27 too, 
  *                                          thanks to @artisticfox8 for the suggestion.
