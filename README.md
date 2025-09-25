@@ -6,3 +6,11 @@ Modificações feitas por Gabriel Marques:
 - Conversão do código para ES6 Modules
 - Adaptações para compatibilidade com import maps
 - Ajustes e melhorias na organização do código
+
+- <script type="module">
+  import { JoyStick } from './joy.js';
+
+  let joy = new JoyStick("meuContainer", {}, (status) => {
+      console.log(status);
+  });
+</script>
